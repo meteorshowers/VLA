@@ -6,3 +6,4 @@
 #### SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction
 #### DIFFUSION-BASED PLANNING FOR AUTONOMOUS DRIVING WITH FLEXIBLE GUIDANCE
 #### Robust Autonomy Emerges from Self-Play
+#### VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
